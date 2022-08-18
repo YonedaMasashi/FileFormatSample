@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFormatSample", "FileFormatSample.csproj", "{3B7D9DC1-340D-4673-99C1-8CED49459A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParquetSample", "..\ParquetSample\ParquetSample.csproj", "{C00686CB-586A-43B5-8A4D-CB8413EAB69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7D9DC1-340D-4673-99C1-8CED49459A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7D9DC1-340D-4673-99C1-8CED49459A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7D9DC1-340D-4673-99C1-8CED49459A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7D9DC1-340D-4673-99C1-8CED49459A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00686CB-586A-43B5-8A4D-CB8413EAB69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00686CB-586A-43B5-8A4D-CB8413EAB69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00686CB-586A-43B5-8A4D-CB8413EAB69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00686CB-586A-43B5-8A4D-CB8413EAB69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534676E9-6690-4DA1-B2B9-D09AF50D4ACF}
+	EndGlobalSection
+EndGlobal
